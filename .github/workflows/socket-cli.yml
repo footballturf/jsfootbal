@@ -1,0 +1,19 @@
+name: Socket CLI Scan
+
+on:
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  socket-scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install Socket CLI
+        run: curl -fsSL https://get.socket.dev/cli/install.sh | bash
+
+      - name: Run Socket CLI
+        run: |
+          ./socket scan --ci --reachability=1
