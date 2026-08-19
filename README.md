@@ -1,4 +1,4 @@
-Raju# [:] Example Node Project
+Raju# [:] Example Node Projects
 
 An example node project to demonstrate [srcclr](https://www.srcclr.com) scans.
 
