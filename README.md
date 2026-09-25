@@ -1,4 +1,4 @@
-# [:] Example Node Project.dgfsssss
+# [:] Example Node Project.dgfssssss
 ss
 An example node project to demonstrate [srcclr](https://www.srcclr.com) scans.
 ss
