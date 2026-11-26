@@ -1,5 +1,5 @@
-# [:] Example Node Project.dgfssssss
-ss
+# [:] Example Node Projectsssss
+
 An example node project to demonstrate [srcclr](https://www.srcclr.com) scans.
 ss
 ## Try me!
